@@ -1,7 +1,7 @@
 Bienvenidos! 
-Esta es mi cuenta de Github, en la que iré subiendo información que puede ser relavante asociada con Seguridad de Información / Ciberseguridad.
+Esta es mi cuenta de Github, en la que iré subiendo información que puede ser relavante asociada con Ciberseguridad.
 
-Suele ser información que trabajo, como plantillas, scripts, etc. Esto en base a lo que vaya necesitando en el día a día.
+Subiré información que trabajo en mis ratos libres, como plantillas, scripts, etc. Esto en base a lo que vaya necesitando en el día a día.
 
 Si te gusta el contenido o quieres que trabaje en algo en particular, me puedes ubicar en:
 
